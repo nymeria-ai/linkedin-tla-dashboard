@@ -1,0 +1,190 @@
+{
+ "start": "2026-09-26",
+ "end": "2026-10-25",
+ "tot": {
+  "n": 77,
+  "spend": 289503.3987272921,
+  "hsu": 1217,
+  "qe": 83,
+  "cps": 237.88282557706827,
+  "cpqe": 3487.992755750507
+ },
+ "new": {
+  "n": 11,
+  "spend": 17595.558955884975,
+  "hsu": 72,
+  "qe": 8,
+  "cps": 244.3827632761802,
+  "cpqe": 2199.444869485622
+ },
+ "old": {
+  "n": 66,
+  "spend": 271907.83977140713,
+  "hsu": 1145,
+  "qe": 75,
+  "cps": 237.47409587022457,
+  "cpqe": 3625.4378636187616
+ },
+ "program": {
+  "spend": 348161.00996750843,
+  "hsu": 1359,
+  "qe": 90
+ },
+ "winners": [
+  {
+   "id": "1550866054",
+   "label": "use_case_dashboard_gif",
+   "cname": "gb-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
+   "spend": 1507.4065612602408,
+   "hsu": 10,
+   "cps": 150.74065612602408,
+   "aset": 355.49969870734947,
+   "new": false,
+   "iterate": "Motion is working: make 2 more motion cuts of the same concept (new colorway / first frame), and a static version only as a control."
+  },
+  {
+   "id": "1595742804",
+   "label": "TLA \u00b7 Rachel Woods (Regev)",
+   "cname": "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
+   "spend": 1381.715621517749,
+   "hsu": 7,
+   "cps": 197.387945931107,
+   "aset": 450.43778696278736,
+   "new": true,
+   "iterate": "Ask the same TL for a follow-up post on the same hook (number + named agent, under ~200 words), and promote this post in the other geo/ad set if it isn't running there."
+  },
+  {
+   "id": "1461266704",
+   "label": "agent_workagent_generic_act_text",
+   "cname": "ca-en-prm-work_mgmt-lp-text-text_ads",
+   "spend": 2281.910794385517,
+   "hsu": 12,
+   "cps": 190.15923286545976,
+   "aset": 351.6535155228955,
+   "new": false,
+   "iterate": "Keep the headline angle \"Let AI agents act for you\" and test 2\u20133 new descriptions on the same promise (same LP, CTA Sign Up). Copy it into the sibling text ad set if it's not there yet."
+  },
+  {
+   "id": "1126780454",
+   "label": "use_case_dashboard_gif",
+   "cname": "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
+   "spend": 2462.468779622134,
+   "hsu": 26,
+   "cps": 94.71033767777439,
+   "aset": 165.57626959786202,
+   "new": false,
+   "iterate": "Motion is working: make 2 more motion cuts of the same concept (new colorway / first frame), and a static version only as a control."
+  },
+  {
+   "id": "1574178994",
+   "label": "TLA \u00b7 Ben Eubanks (humanz)",
+   "cname": "us-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
+   "spend": 2653.6567502221383,
+   "hsu": 7,
+   "cps": 379.0938214603055,
+   "aset": 660.6785511195371,
+   "new": true,
+   "iterate": "Ask the same TL for a follow-up post on the same hook (number + named agent, under ~200 words), and promote this post in the other geo/ad set if it isn't running there."
+  },
+  {
+   "id": "1125186724",
+   "label": "360_AI_your_team_static",
+   "cname": "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
+   "spend": 2607.512458096116,
+   "hsu": 26,
+   "cps": 100.28894069600446,
+   "aset": 165.57626959786202,
+   "new": false,
+   "iterate": "Make a GIF version and 1\u20132 new colorways of the same layout; keep the headline."
+  },
+  {
+   "id": "1534960244",
+   "label": "TLA \u00b7 Beatrice Vladut (humanz)",
+   "cname": "gb-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
+   "spend": 3297.444288864085,
+   "hsu": 14,
+   "cps": 235.53173491886324,
+   "aset": 335.1838308861683,
+   "new": false,
+   "iterate": "Ask the same TL for a follow-up post on the same hook (number + named agent, under ~200 words), and promote this post in the other geo/ad set if it isn't running there."
+  },
+  {
+   "id": "694413554",
+   "label": "Text 1",
+   "cname": "us-en-prm-work_mgmt-lp-text-text_ads",
+   "spend": 4516.215035187464,
+   "hsu": 19,
+   "cps": 237.69552816776127,
+   "aset": 334.7022684064989,
+   "new": false,
+   "iterate": "Keep the headline angle \"A New Way to Manage Work\" and test 2\u20133 new descriptions on the same promise (same LP, CTA Sign Up). Copy it into the sibling text ad set if it's not there yet."
+  },
+  {
+   "id": "1564133684",
+   "label": "agent_aimarketing_generic_emotional_signature_static",
+   "cname": "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
+   "spend": 2760.557345680867,
+   "hsu": 22,
+   "cps": 125.47987934913031,
+   "aset": 165.57626959786202,
+   "new": false,
+   "iterate": "Make a GIF version and 1\u20132 new colorways of the same layout; keep the headline."
+  },
+  {
+   "id": "1550742204",
+   "label": "TLA \u00b7 Leonard Rodman (humanz)",
+   "cname": "gb-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
+   "spend": 3341.7165532788586,
+   "hsu": 13,
+   "cps": 257.05511948298914,
+   "aset": 335.1838308861683,
+   "new": false,
+   "iterate": "Ask the same TL for a follow-up post on the same hook (number + named agent, under ~200 words), and promote this post in the other geo/ad set if it isn't running there."
+  },
+  {
+   "id": "1468103294",
+   "label": "TLA \u00b7 Rachel Woods (Regev)",
+   "cname": "gb-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
+   "spend": 5544.849374200076,
+   "hsu": 21,
+   "cps": 264.0404463904798,
+   "aset": 335.1838308861683,
+   "new": false,
+   "iterate": "Ask the same TL for a follow-up post on the same hook (number + named agent, under ~200 words), and promote this post in the other geo/ad set if it isn't running there."
+  },
+  {
+   "id": "1144218514",
+   "label": "Text 1",
+   "cname": "us-en-prm-work_mgmt-lp-text-text_ads_conversion",
+   "spend": 3141.3972383420887,
+   "hsu": 35,
+   "cps": 89.75420680977396,
+   "aset": 113.2834969325153,
+   "new": false,
+   "iterate": "Keep the headline angle \"A New Way to Manage Work\" and test 2\u20133 new descriptions on the same promise (same LP, CTA Sign Up). Copy it into the sibling text ad set if it's not there yet."
+  },
+  {
+   "id": "1589147834",
+   "label": "calendar-pink_motion_notetaker_gif",
+   "cname": "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
+   "spend": 1383.8792094758837,
+   "hsu": 10,
+   "cps": 138.38792094758838,
+   "aset": 165.57626959786202,
+   "new": true,
+   "iterate": "Motion is working: make 2 more motion cuts of the same concept (new colorway / first frame), and a static version only as a control."
+  }
+ ],
+ "pause": [
+  {
+   "id": "1550745794",
+   "label": "typography_gif",
+   "cname": "gb-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
+   "spend": 1049.7303096724522,
+   "hsu": 2,
+   "cps": 524.8651548362261,
+   "aset": 355.49969870734947,
+   "why": "CPHSU $525 is +48% vs its ad set ($355)."
+  }
+ ]
+}
