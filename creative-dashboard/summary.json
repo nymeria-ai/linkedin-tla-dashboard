@@ -5,30 +5,30 @@
  "tla": {
   "tot": {
    "n": 13,
-   "spend": 69966.8939568818,
+   "spend": 69966.8926,
    "hsu": 150,
    "qe": 16,
-   "cps": 466.44595971254535,
-   "cpqe": 4372.930872305113
+   "cps": 466.4459506666667,
+   "cpqe": 4372.9307875
   },
   "weak_adset_copies": [
    {
     "ad": "Ben Eubanks (humanz) \u00b7 Onboarding is a slow, repetitive, and overwhelming process i\u2026",
     "adset": "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
     "id": "1595781704",
-    "spend": 1173.7576714636075,
+    "spend": 1173.7574,
     "hsu": 2,
-    "cps": 586.8788357318037,
-    "aset": 409.0187499999998
+    "cps": 586.8787,
+    "aset": 409.01875
    },
    {
     "ad": "Rachel Leigh \u00b7 Meet Brittany. My monday.com AI agent that took me 20 minute\u2026",
     "adset": "us-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
     "id": "1290815504",
-    "spend": 3051.4324747719925,
+    "spend": 3051.4323,
     "hsu": 4,
-    "cps": 762.8581186929981,
-    "aset": 571.0535325946857
+    "cps": 762.858075,
+    "aset": 571.0535333333333
    }
   ],
   "winners": [
@@ -40,10 +40,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 22587.9929935667,
+    "spend": 22587.993000000002,
     "hsu": 68,
-    "cps": 332.17636755245144,
-    "aset": 474.2348129716146,
+    "cps": 332.17636764705884,
+    "aset": 474.2348107967226,
     "iterate": "Ask Rachel Woods (Regev) for a follow-up post on the same angle and sponsor it; also try this post in the other TLA ad set (banner/video) if it isn't there."
    },
    {
@@ -54,10 +54,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 5952.876434962549,
+    "spend": 5952.8764,
     "hsu": 18,
-    "cps": 330.7153574979194,
-    "aset": 446.1611466877869,
+    "cps": 330.71535555555556,
+    "aset": 446.1611546012156,
     "iterate": "Ask Ben Eubanks (humanz) for a follow-up post on the same angle and sponsor it; also try this post in the other TLA ad set (banner/video) if it isn't there."
    }
   ],
@@ -70,10 +70,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 7598.919957898148,
+    "spend": 7598.9201,
     "hsu": 11,
-    "cps": 690.810905263468,
-    "aset": 429.1388505835666,
+    "cps": 690.8109181818182,
+    "aset": 429.1388592029534,
     "why": "CPHSU $691 is +61% vs what its ad sets average ($429)."
    },
    {
@@ -84,10 +84,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 7170.782687580615,
+    "spend": 7170.7824,
     "hsu": 11,
-    "cps": 651.8893352346014,
-    "aset": 414.7298248613436,
+    "cps": 651.8893090909091,
+    "aset": 414.7298181093199,
     "why": "CPHSU $652 is +57% vs what its ad sets average ($415)."
    },
    {
@@ -98,10 +98,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 4827.646418900084,
+    "spend": 4827.6459,
     "hsu": 9,
-    "cps": 536.405157655565,
-    "aset": 405.0321401421453,
+    "cps": 536.4051000000001,
+    "aset": 405.0321288469205,
     "why": "CPHSU $536 is +32% vs what its ad sets average ($405)."
    },
    {
@@ -112,10 +112,10 @@
      "gb-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 4793.479780650826,
+    "spend": 4793.4796,
     "hsu": 6,
-    "cps": 798.9132967751376,
-    "aset": 463.9021319351188,
+    "cps": 798.9132666666666,
+    "aset": 463.90213395487564,
     "why": "CPHSU $799 is +72% vs what its ad sets average ($464)."
    },
    {
@@ -126,10 +126,10 @@
      "gb-en-prm-work_mgmt-job_function-lp-banner-tla-mop",
      "us-en-prm-work_mgmt-job_function-lp-banner-tla-mop"
     ],
-    "spend": 4286.86558280196,
+    "spend": 4286.866,
     "hsu": 7,
-    "cps": 612.4093689717085,
-    "aset": 427.8821717310889,
+    "cps": 612.4094285714285,
+    "aset": 427.882179838195,
     "why": "CPHSU $612 is +43% vs what its ad sets average ($428)."
    },
    {
@@ -137,10 +137,10 @@
     "adsets": [
      "us-en-prm-work_mgmt-seniority-lp-banner-tla-skills-agent"
     ],
-    "spend": 1543.2289616225505,
+    "spend": 1543.2287000000001,
     "hsu": 2,
-    "cps": 771.6144808112753,
-    "aset": 571.0535325946857,
+    "cps": 771.6143500000001,
+    "aset": 571.0535333333333,
     "why": "CPHSU $772 is +35% vs what its ad sets average ($571)."
    },
    {
@@ -149,27 +149,27 @@
      "us-en-prm-work_mgmt-seniority-lp-video-tla-skills-agent",
      "gb-en-prm-work_mgmt-seniority-lp-video-tla-skills-agent"
     ],
-    "spend": 1062.4387783487073,
+    "spend": 1062.4386,
     "hsu": 0,
     "cps": null,
-    "aset": 1102.7985822101275,
+    "aset": 1102.7988756211564,
     "why": "$1,062 spent for 0 Hard SU across 2 ad set(s)."
    }
   ]
  },
  "program_excl_tla": {
-  "spend": 311067.46413365135,
+  "spend": 311067.4641,
   "hsu": 1138,
   "qe": 58
  },
  "banners_gifs": {
   "tot": {
    "n": 35,
-   "spend": 110993.14621764379,
+   "spend": 110993.1479,
    "hsu": 355,
    "qe": 20,
-   "cps": 312.6567499088558,
-   "cpqe": 5549.657310882189
+   "cps": 312.65675464788734,
+   "cpqe": 5549.657395
   },
   "weak_adset_copies": [],
   "winners": [
@@ -185,10 +185,10 @@
      "us-en-prm-work_mgmt-seniority-lp-banner-tla_audience",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 4036.098903461229,
+    "spend": 4036.0987,
     "hsu": 21,
-    "cps": 192.19518587910613,
-    "aset": 272.64900697787806,
+    "cps": 192.1951761904762,
+    "aset": 272.64900903241977,
     "iterate": "Make a GIF/motion version of this static and try the same visual with a new headline."
    },
    {
@@ -203,10 +203,10 @@
      "us-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 4373.346516996879,
+    "spend": 4373.3462,
     "hsu": 22,
-    "cps": 198.78847804531267,
-    "aset": 257.1520859289659,
+    "cps": 198.78846363636364,
+    "aset": 257.1520881507948,
     "iterate": "Motion is working: make 2 more motion cuts of the same concept (new colorway / first frame)."
    },
    {
@@ -222,10 +222,10 @@
      "us-en-prm-work_mgmt-seniority-lp-banner-tla_audience",
      "gb-en-prm-work_mgmt-seniority-lp-banner-skills_lan"
     ],
-    "spend": 4406.187307420174,
+    "spend": 4406.1868,
     "hsu": 22,
-    "cps": 200.28124124637154,
-    "aset": 255.9390189413827,
+    "cps": 200.2812181818182,
+    "aset": 255.93900518808744,
     "iterate": "Motion is working: make 2 more motion cuts of the same concept (new colorway / first frame)."
    },
    {
@@ -238,10 +238,10 @@
      "us-en-prm-work_mgmt-seniority-lp-banner-skills",
      "gb-en-prm-work_mgmt-seniority-lp-banner-skills_lan"
     ],
-    "spend": 3673.6085954435084,
+    "spend": 3673.6087,
     "hsu": 21,
-    "cps": 174.93374264016705,
-    "aset": 222.5944997979642,
+    "cps": 174.93374761904764,
+    "aset": 222.59449620256748,
     "iterate": "Make a GIF version and 1-2 new colorways of the same layout; keep the headline."
    },
    {
@@ -256,10 +256,10 @@
      "us-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 2918.272094603077,
+    "spend": 2918.2729,
     "hsu": 12,
-    "cps": 243.1893412169231,
-    "aset": 294.9585216562284,
+    "cps": 243.18940833333332,
+    "aset": 294.95854561743954,
     "iterate": "Make a GIF version and 1-2 new colorways of the same layout; keep the headline."
    },
    {
@@ -274,10 +274,10 @@
      "us-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 3516.079543078336,
+    "spend": 3516.0795,
     "hsu": 16,
-    "cps": 219.754971442396,
-    "aset": 261.6390230334096,
+    "cps": 219.75496875,
+    "aset": 261.63903106981877,
     "iterate": "Make a GIF/motion version of this static and try the same visual with a new headline."
    }
   ],
@@ -294,10 +294,10 @@
      "us-en-prm-work_mgmt-seniority-lp-banner-tla_audience",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 5789.024578629779,
+    "spend": 5789.0247,
     "hsu": 15,
-    "cps": 385.93497190865196,
-    "aset": 253.3424179329881,
+    "cps": 385.93498,
+    "aset": 253.34242138066983,
     "why": "CPHSU $386 is +52% vs what its ad sets average ($253)."
    },
    {
@@ -312,10 +312,10 @@
      "us-en-prm-work_mgmt-seniority-lp-banner-tla_audience",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 5054.63372919605,
+    "spend": 5054.6346,
     "hsu": 14,
-    "cps": 361.0452663711464,
-    "aset": 256.8965963637258,
+    "cps": 361.04532857142857,
+    "aset": 256.89660587079743,
     "why": "CPHSU $361 is +41% vs what its ad sets average ($257)."
    },
    {
@@ -330,10 +330,10 @@
      "us-en-prm-work_mgmt-job_function-lp-banner-mop_lan",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 4792.094584395586,
+    "spend": 4792.0945,
     "hsu": 12,
-    "cps": 399.34121536629885,
-    "aset": 256.0330487109825,
+    "cps": 399.3412083333333,
+    "aset": 256.03304037415194,
     "why": "CPHSU $399 is +56% vs what its ad sets average ($256)."
    },
    {
@@ -347,10 +347,10 @@
      "gb-en-prm-work_mgmt-seniority-lp-banner-skills",
      "gb-en-prm-work_mgmt-job_function-lp-banner-mop"
     ],
-    "spend": 2895.8839565339,
+    "spend": 2895.8837000000003,
     "hsu": 8,
-    "cps": 361.9854945667375,
-    "aset": 273.696859836741,
+    "cps": 361.98546250000004,
+    "aset": 273.6968279335439,
     "why": "CPHSU $362 is +32% vs what its ad sets average ($274)."
    }
   ]
@@ -358,11 +358,11 @@
  "text_ads": {
   "tot": {
    "n": 26,
-   "spend": 197762.96327212508,
+   "spend": 197762.9625,
    "hsu": 755,
    "qe": 36,
-   "cps": 261.9376996981789,
-   "cpqe": 5493.415646447919
+   "cps": 261.9376986754967,
+   "cpqe": 5493.415625
   },
   "weak_adset_copies": [],
   "winners": [
@@ -373,10 +373,10 @@
      "us-en-prm-work_mgmt-lp-text-text_ads_conversion",
      "gb-en-prm-work_mgmt-lp-text-text_ads_conversion"
     ],
-    "spend": 6443.899830563076,
+    "spend": 6443.8996,
     "hsu": 41,
-    "cps": 157.16828855031892,
-    "aset": 193.7798415807543,
+    "cps": 157.16828292682925,
+    "aset": 193.77985787088184,
     "iterate": "Keep the headline angle \"A New Way to Manage Work\" and test 2-3 new descriptions on the same promise (same LP, CTA Sign Up). Add it to the sibling text ad set if it isn't there."
    },
    {
@@ -385,10 +385,10 @@
      "gb-en-prm-work_mgmt-lp-text-skills-text_ads",
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers"
     ],
-    "spend": 6741.942075632266,
+    "spend": 6741.9421,
     "hsu": 39,
-    "cps": 172.87030963159657,
-    "aset": 212.817719170085,
+    "cps": 172.87031025641025,
+    "aset": 212.8177179654533,
     "iterate": "Keep the headline angle \"A New Way to Manage Work\" and test 2-3 new descriptions on the same promise (same LP, CTA Sign Up). Add it to the sibling text ad set if it isn't there."
    },
    {
@@ -401,10 +401,10 @@
      "ca-en-prm-work_mgmt-lp-text-text_ads",
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers"
     ],
-    "spend": 7235.878920186004,
+    "spend": 7235.8794,
     "hsu": 43,
-    "cps": 168.27625395781405,
-    "aset": 201.72729763094733,
+    "cps": 168.27626511627906,
+    "aset": 201.72730216432973,
     "iterate": "Keep the headline angle \"Your work, moving faster\" and test 2-3 new descriptions on the same promise (same LP, CTA Sign Up). Add it to the sibling text ad set if it isn't there."
    },
    {
@@ -416,10 +416,10 @@
      "ca-en-prm-work_mgmt-lp-text-text_ads",
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers"
     ],
-    "spend": 5158.648544130412,
+    "spend": 5158.6486,
     "hsu": 22,
-    "cps": 234.48402473320056,
-    "aset": 277.7463052939803,
+    "cps": 234.4840272727273,
+    "aset": 277.7463078017893,
     "iterate": "Keep the headline angle \"Get more done, faster\" and test 2-3 new descriptions on the same promise (same LP, CTA Sign Up). Add it to the sibling text ad set if it isn't there."
    }
   ],
@@ -433,10 +433,10 @@
      "ca-en-prm-work_mgmt-lp-text-text_ads",
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers"
     ],
-    "spend": 5418.382594462958,
+    "spend": 5418.3826,
     "hsu": 15,
-    "cps": 361.22550629753056,
-    "aset": 272.6820942988232,
+    "cps": 361.22550666666666,
+    "aset": 272.68209191569923,
     "why": "CPHSU $361 is +32% vs what its ad sets average ($273)."
    },
    {
@@ -449,10 +449,10 @@
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers",
      "gb-en-prm-work_mgmt-lp-text-text_ads_conversion"
     ],
-    "spend": 5414.949649965529,
+    "spend": 5414.9493,
     "hsu": 14,
-    "cps": 386.7821178546806,
-    "aset": 269.95836837879153,
+    "cps": 386.78209285714286,
+    "aset": 269.9584278481316,
     "why": "CPHSU $387 is +43% vs what its ad sets average ($270)."
    },
    {
@@ -464,10 +464,10 @@
      "ca-en-prm-work_mgmt-lp-text-text_ads",
      "us-en-prm-work_mgmt-lp-text-skills-text_ads-predicted_payers"
     ],
-    "spend": 5156.9879929126855,
+    "spend": 5156.988,
     "hsu": 13,
-    "cps": 396.6913840702066,
-    "aset": 277.7039433495248,
+    "cps": 396.69138461538466,
+    "aset": 277.7039435104114,
     "why": "CPHSU $397 is +43% vs what its ad sets average ($278)."
    }
   ]
@@ -476,53 +476,53 @@
   "Static": {
    "xlan": {
     "n": 95,
-    "spend": 20493.34877900853,
+    "spend": 20493.35,
     "hsu": 15,
     "qe": 1,
-    "cps": 1366.223251933902,
-    "cpqe": 20493.34877900853
+    "cps": 1366.2233333333331,
+    "cpqe": 20493.35
    },
    "lan": {
     "n": 74,
-    "spend": 62091.646931072035,
+    "spend": 62091.6489,
     "hsu": 233,
     "qe": 12,
-    "cps": 266.4877550689787,
-    "cpqe": 5174.303910922669
+    "cps": 266.4877635193133,
+    "cpqe": 5174.304075
    },
    "all": {
     "n": 169,
-    "spend": 82584.99571008056,
+    "spend": 82584.9989,
     "hsu": 248,
     "qe": 13,
-    "cps": 333.0040149600023,
-    "cpqe": 6352.691977698505
+    "cps": 333.00402782258067,
+    "cpqe": 6352.692223076923
    }
   },
   "GIF": {
    "xlan": {
     "n": 40,
-    "spend": 3879.285041833801,
+    "spend": 3879.2847,
     "hsu": 1,
     "qe": 0,
-    "cps": 3879.285041833801,
+    "cps": 3879.2847,
     "cpqe": null
    },
    "lan": {
     "n": 31,
-    "spend": 27815.57798768355,
+    "spend": 27815.577400000002,
     "hsu": 107,
     "qe": 8,
-    "cps": 259.95867278208925,
-    "cpqe": 3476.947248460444
+    "cps": 259.95866728971964,
+    "cpqe": 3476.9471750000002
    },
    "all": {
     "n": 71,
-    "spend": 31694.863029517353,
+    "spend": 31694.8621,
     "hsu": 108,
     "qe": 8,
-    "cps": 293.4709539770125,
-    "cpqe": 3961.857878689669
+    "cps": 293.4709453703704,
+    "cpqe": 3961.8577625
    }
   },
   "Video": {
