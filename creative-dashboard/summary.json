@@ -131,18 +131,18 @@
   ]
  },
  "program_excl_tla": {
-  "spend": 333266.5794,
-  "hsu": 1126,
+  "spend": 300277.75,
+  "hsu": 1125,
   "qe": 76
  },
  "banners_gifs": {
   "tot": {
-   "n": 49,
-   "spend": 131400.3148,
-   "hsu": 360,
+   "n": 28,
+   "spend": 101599.4231,
+   "hsu": 359,
    "qe": 30,
-   "cps": 365.00087444444443,
-   "cpqe": 4380.010493333333
+   "cps": 283.0067495821727,
+   "cpqe": 3386.6474366666666
   },
   "weak_adset_copies": [
    {
@@ -220,19 +220,6 @@
   ],
   "pause": [
    {
-    "label": "leadgen_it_I2_intake_queue_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it"
-    ],
-    "spend": 5360.625,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$5,361 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
     "label": "fine_doodle-a_notetaker_static",
     "adsets": [
      "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
@@ -269,19 +256,6 @@
     "why": "CPHSU $603 is +135% vs what its ad sets average ($257)."
    },
    {
-    "label": "leadgen_pmo_P1_pace_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo"
-    ],
-    "spend": 2312.4267,
-    "hsu": 0,
-    "cps": null,
-    "aset": 11004.9388,
-    "why": "$2,312 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
     "label": "calendar-pink_static_notetaker_static",
     "adsets": [
      "us-en-prm-work_mgmt-seniority-lp-banner-skills_lan",
@@ -297,175 +271,6 @@
     "cps": 434.42470000000003,
     "aset": 310.6154392313017,
     "why": "CPHSU $434 is +40% vs what its ad sets average ($311)."
-   },
-   {
-    "label": "leadgen_aimarketing_M3_workspace_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing"
-    ],
-    "spend": 1892.5923,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,893 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_pmo_O4_ask_portfolio_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo"
-    ],
-    "spend": 1875.3905,
-    "hsu": 0,
-    "cps": null,
-    "aset": 11004.9388,
-    "why": "$1,875 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_aimarketing_O3_delegate_busywork_gif",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing"
-    ],
-    "spend": 1664.145,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,664 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_it_I1_tool_sprawl_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it"
-    ],
-    "spend": 1553.0420000000001,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,553 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_it_I4_who_sees_what_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it"
-    ],
-    "spend": 1410.674,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,411 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_pmo_P2_admin_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo"
-    ],
-    "spend": 1407.4306000000001,
-    "hsu": 0,
-    "cps": null,
-    "aset": 11004.9388,
-    "why": "$1,407 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_aimarketing_O2_fast_on_brand_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing"
-    ],
-    "spend": 1283.0513,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,283 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_it_I5_backlog_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it"
-    ],
-    "spend": 1239.467,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,239 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_pmo_D5_friday_back_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo"
-    ],
-    "spend": 1226.2523,
-    "hsu": 0,
-    "cps": null,
-    "aset": 11004.9388,
-    "why": "$1,226 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_aimarketing_D3_cross_it_off_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing"
-    ],
-    "spend": 1011.9885,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$1,012 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_pmo_P3_goal_gif",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo",
-     "us-en-prm-work_mgmt-lead_gen-banner-pmo"
-    ],
-    "spend": 985.3183,
-    "hsu": 0,
-    "cps": null,
-    "aset": 11004.9388,
-    "why": "$985 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_it_I6_passes_review_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it",
-     "us-en-prm-work_mgmt-lead_gen-banner-it"
-    ],
-    "spend": 961.7261000000001,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$962 spent for 0 Hard SU across 3 ad set(s)."
-   },
-   {
-    "label": "leadgen_aimarketing_O3_delegate_busywork_static",
-    "adsets": [
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing",
-     "us-en-prm-work_mgmt-lead_gen-banner-marketing"
-    ],
-    "spend": 940.3588,
-    "hsu": 0,
-    "cps": null,
-    "aset": null,
-    "why": "$940 spent for 0 Hard SU across 3 ad set(s)."
    }
   ]
  },
@@ -572,12 +377,12 @@
  "format_compare": {
   "Static": {
    "xlan": {
-    "n": 131,
-    "spend": 37707.9547,
+    "n": 70,
+    "spend": 10767.7619,
     "hsu": 10,
     "qe": 1,
-    "cps": 3770.79547,
-    "cpqe": 37707.9547
+    "cps": 1076.77619,
+    "cpqe": 10767.7619
    },
    "lan": {
     "n": 64,
@@ -588,21 +393,21 @@
     "cpqe": 3444.0864333333334
    },
    "all": {
-    "n": 195,
-    "spend": 99701.5105,
+    "n": 134,
+    "spend": 72761.3177,
     "hsu": 237,
     "qe": 19,
-    "cps": 420.6814789029536,
-    "cpqe": 5247.4479210526315
+    "cps": 307.0097793248945,
+    "cpqe": 3829.5430368421053
    }
   },
   "GIF": {
    "xlan": {
-    "n": 49,
-    "spend": 8936.4872,
-    "hsu": 2,
+    "n": 28,
+    "spend": 2887.85,
+    "hsu": 1,
     "qe": 0,
-    "cps": 4468.2436,
+    "cps": 2887.85,
     "cpqe": null
    },
    "lan": {
@@ -614,12 +419,12 @@
     "cpqe": 2251.3271
    },
    "all": {
-    "n": 74,
-    "spend": 38203.7395,
-    "hsu": 129,
+    "n": 53,
+    "spend": 32155.1023,
+    "hsu": 128,
     "qe": 13,
-    "cps": 296.153019379845,
-    "cpqe": 2938.7491923076927
+    "cps": 251.21173671875,
+    "cpqe": 2473.4694076923074
    }
   },
   "Video": {
