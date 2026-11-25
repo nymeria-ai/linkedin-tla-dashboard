@@ -1,0 +1,3244 @@
+{
+ "meta": {
+  "source": "LinkedIn in-platform (Funnel Gate get_insights, account 507706187)",
+  "window": "2026-11-01..2026-11-24",
+  "scope": "PRM ad sets with lead_gen or up_market in the name, groups 691891854 + 1018304264, Airtable excluded",
+  "note": "One row per ad name, summed across ad sets",
+  "n": 87
+ },
+ "creatives": [
+  {
+   "ad_name": "leadgen_it_I2_intake_queue_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632068774",
+    "1638511054",
+    "1643294754",
+    "1643984174",
+    "1646495744",
+    "1651211964",
+    "1647019714"
+   ],
+   "status": "ACTIVE",
+   "impressions": 18985,
+   "clicks": 100,
+   "landing_page_clicks": 10,
+   "lead_form_opens": 55,
+   "linkedin_form_leads": 3,
+   "spend_usd": 6023.39,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632068774.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_P1_pace_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632059174",
+    "1638491304",
+    "1639148474",
+    "1643944944",
+    "1646514824",
+    "1647019754",
+    "1651231694"
+   ],
+   "status": "ACTIVE",
+   "impressions": 15502,
+   "clicks": 81,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 42,
+   "linkedin_form_leads": 1,
+   "spend_usd": 3384.47,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632059174.gif"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_O3_delegate_busywork_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1631998734",
+    "1632145034",
+    "1638452584",
+    "1643294724",
+    "1644033764",
+    "1646560174",
+    "1647143294",
+    "1647172184"
+   ],
+   "status": "ACTIVE",
+   "impressions": 15976,
+   "clicks": 90,
+   "landing_page_clicks": 15,
+   "lead_form_opens": 47,
+   "linkedin_form_leads": 0,
+   "spend_usd": 3263.92,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1631998734.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I1_tool_sprawl_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638210984",
+    "1638368614",
+    "1643324004",
+    "1644003864",
+    "1646514794",
+    "1647056534",
+    "1647056484"
+   ],
+   "status": "ACTIVE",
+   "impressions": 10192,
+   "clicks": 60,
+   "landing_page_clicks": 4,
+   "lead_form_opens": 38,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2749.77,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638210984.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_P1_pace_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638220954",
+    "1638359094",
+    "1643254984",
+    "1643848624",
+    "1646551594",
+    "1651211954",
+    "1651201994"
+   ],
+   "status": "ACTIVE",
+   "impressions": 12311,
+   "clicks": 60,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 37,
+   "linkedin_form_leads": 1,
+   "spend_usd": 2745.83,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638220954.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M3_workspace_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632048454",
+    "1632078154",
+    "1638339494",
+    "1639158614",
+    "1643964554",
+    "1646407194",
+    "1651211944",
+    "1647172174"
+   ],
+   "status": "ACTIVE",
+   "impressions": 12545,
+   "clicks": 63,
+   "landing_page_clicks": 9,
+   "lead_form_opens": 41,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2730.85,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632048454.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_O3_delegate_busywork_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1631988754",
+    "1632135864",
+    "1638481324",
+    "1639158644",
+    "1643984144",
+    "1646534044",
+    "1651182284",
+    "1651192224"
+   ],
+   "status": "ACTIVE",
+   "impressions": 11121,
+   "clicks": 65,
+   "landing_page_clicks": 9,
+   "lead_form_opens": 35,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2456.23,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1631988754.gif"
+  },
+  {
+   "ad_name": "leadgen_pmo_P2_admin_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632107844",
+    "1638359084",
+    "1643324014",
+    "1644070054",
+    "1646495814",
+    "1647162624",
+    "1651239954"
+   ],
+   "status": "ACTIVE",
+   "impressions": 10270,
+   "clicks": 50,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 24,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2332.97,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632107844.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_O4_ask_portfolio_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632078164",
+    "1638309614",
+    "1639148464",
+    "1643858124",
+    "1646524094",
+    "1647132954",
+    "1651221774"
+   ],
+   "status": "ACTIVE",
+   "impressions": 8637,
+   "clicks": 33,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 16,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2306.53,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632078164.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_O1_more_campaigns_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632018544",
+    "1632068754",
+    "1638491264",
+    "1643351524",
+    "1643974514",
+    "1646523974",
+    "1647104514",
+    "1647153074"
+   ],
+   "status": "ACTIVE",
+   "impressions": 11828,
+   "clicks": 67,
+   "landing_page_clicks": 12,
+   "lead_form_opens": 36,
+   "linkedin_form_leads": 1,
+   "spend_usd": 2256.68,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632018544.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_D5_friday_back_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638240074",
+    "1638309634",
+    "1639177674",
+    "1643994184",
+    "1646580074",
+    "1647153024",
+    "1651221784"
+   ],
+   "status": "ACTIVE",
+   "impressions": 9810,
+   "clicks": 57,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 33,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2213.41,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638240074.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I4_who_sees_what_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632097894",
+    "1638442594",
+    "1643236354",
+    "1643906874",
+    "1646524034",
+    "1651182324",
+    "1651211914"
+   ],
+   "status": "ACTIVE",
+   "impressions": 7886,
+   "clicks": 50,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 28,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2127.73,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632097894.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_P3_goal_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638230204",
+    "1638432894",
+    "1643264784",
+    "1643916084",
+    "1646560234",
+    "1647143314",
+    "1647114244"
+   ],
+   "status": "ACTIVE",
+   "impressions": 9483,
+   "clicks": 56,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 34,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2120.31,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638230204.gif"
+  },
+  {
+   "ad_name": "leadgen_it_headcount_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643896884",
+    "1644023564",
+    "1646551504",
+    "1647019784",
+    "1647152984"
+   ],
+   "status": "ACTIVE",
+   "impressions": 9132,
+   "clicks": 57,
+   "landing_page_clicks": 2,
+   "lead_form_opens": 38,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2052.15,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643896884.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_O2_fast_on_brand_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1631998724",
+    "1632087834",
+    "1638329234",
+    "1643264754",
+    "1643877904",
+    "1646485414",
+    "1647114194",
+    "1647143384"
+   ],
+   "status": "ACTIVE",
+   "impressions": 9405,
+   "clicks": 55,
+   "landing_page_clicks": 9,
+   "lead_form_opens": 28,
+   "linkedin_form_leads": 0,
+   "spend_usd": 2017.64,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1631998724.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_D6_quietly_carrying_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632145054",
+    "1638501104",
+    "1643324024",
+    "1643955154",
+    "1646495784",
+    "1647172144",
+    "1651192244"
+   ],
+   "status": "ACTIVE",
+   "impressions": 12084,
+   "clicks": 68,
+   "landing_page_clicks": 2,
+   "lead_form_opens": 47,
+   "linkedin_form_leads": 1,
+   "spend_usd": 1977.41,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632145054.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_D3_cross_it_off_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632086484",
+    "1632162554",
+    "1638377894",
+    "1643206794",
+    "1643915984",
+    "1646378044",
+    "1651182264",
+    "1647143364"
+   ],
+   "status": "ACTIVE",
+   "impressions": 8972,
+   "clicks": 50,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 31,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1851.24,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632086484.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I5_backlog_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632145044",
+    "1638309594",
+    "1643254974",
+    "1643896844",
+    "1646398114",
+    "1647132964",
+    "1647037694"
+   ],
+   "status": "ACTIVE",
+   "impressions": 6777,
+   "clicks": 33,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 14,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1839.06,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632145044.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_matt_working_for_you_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643887794",
+    "1643916064",
+    "1646505474",
+    "1647029274",
+    "1647037704"
+   ],
+   "status": "ACTIVE",
+   "impressions": 11993,
+   "clicks": 73,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 46,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1623.13,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643887794.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_matt_working_for_you_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643984184",
+    "1644023534",
+    "1646417294",
+    "1647153034",
+    "1647076004"
+   ],
+   "status": "ACTIVE",
+   "impressions": 6320,
+   "clicks": 40,
+   "landing_page_clicks": 12,
+   "lead_form_opens": 19,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1619.35,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643984184.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I6_passes_review_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632127284",
+    "1638442604",
+    "1643342744",
+    "1644023984",
+    "1646426794",
+    "1651239934",
+    "1651182254"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5935,
+   "clicks": 30,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 17,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1476.2,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632127284.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_strategic_role_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643906454",
+    "1644003914",
+    "1646514844",
+    "1647085574",
+    "1647143404"
+   ],
+   "status": "ACTIVE",
+   "impressions": 12005,
+   "clicks": 69,
+   "landing_page_clicks": 31,
+   "lead_form_opens": 26,
+   "linkedin_form_leads": 1,
+   "spend_usd": 1469.5,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643906454.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M1_budget_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632057714",
+    "1632078144",
+    "1638368574",
+    "1643216244",
+    "1643858044",
+    "1646485394",
+    "1647076014",
+    "1647143374"
+   ],
+   "status": "ACTIVE",
+   "impressions": 6756,
+   "clicks": 28,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 15,
+   "linkedin_form_leads": 1,
+   "spend_usd": 1430.63,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632057714.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_helpdesk_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1644013794",
+    "1644042174",
+    "1646378134",
+    "1647143334",
+    "1647056494"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5811,
+   "clicks": 38,
+   "landing_page_clicks": 15,
+   "lead_form_opens": 12,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1314.27,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1644013794.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M2_strategy_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632126074",
+    "1632127274",
+    "1638395194",
+    "1643323994",
+    "1643896794",
+    "1646514714",
+    "1651201954",
+    "1651201984"
+   ],
+   "status": "ACTIVE",
+   "impressions": 6320,
+   "clicks": 27,
+   "landing_page_clicks": 4,
+   "lead_form_opens": 15,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1313.97,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632126074.gif"
+  },
+  {
+   "ad_name": "leadgen_it_I1_tool_sprawl_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643689854",
+    "1643944924",
+    "1646560204",
+    "1647076024",
+    "1647094804"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5404,
+   "clicks": 33,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 17,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1186.6,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643689854.gif"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M2_strategy_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632077124",
+    "1632097884",
+    "1638329244",
+    "1639168494",
+    "1644069964",
+    "1646485434",
+    "1651201974",
+    "1647066374"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5784,
+   "clicks": 30,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 13,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1137.19,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632077124.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I3_ai_guardrails_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643787674",
+    "1644033784",
+    "1646543274",
+    "1647047374",
+    "1651239894"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5205,
+   "clicks": 29,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 11,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1134.24,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643787674.gif"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_melinda_dont_bother_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643887774",
+    "1644023974",
+    "1646407224",
+    "1647019744",
+    "1647076034"
+   ],
+   "status": "ACTIVE",
+   "impressions": 7447,
+   "clicks": 43,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 21,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1098.16,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643887774.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M3_workspace_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632161364",
+    "1638210964",
+    "1638501084",
+    "1639148454",
+    "1644061734",
+    "1646398084",
+    "1647085564",
+    "1651239944"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5573,
+   "clicks": 29,
+   "landing_page_clicks": 12,
+   "lead_form_opens": 9,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1089.34,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632161364.gif"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_brief_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646523384",
+    "1646407234",
+    "1651192164",
+    "1647056544"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5958,
+   "clicks": 26,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 13,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1066.6,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646523384.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_O5_projects_strategy_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638210994",
+    "1638540084",
+    "1643236404",
+    "1644003894",
+    "1646329634",
+    "1647019764",
+    "1647037774"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5201,
+   "clicks": 23,
+   "landing_page_clicks": 3,
+   "lead_form_opens": 10,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1041.96,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638210994.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_job_description_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643867824",
+    "1644061204",
+    "1646485484",
+    "1647104524",
+    "1647076054"
+   ],
+   "status": "ACTIVE",
+   "impressions": 6001,
+   "clicks": 46,
+   "landing_page_clicks": 13,
+   "lead_form_opens": 22,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1030.4,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643867824.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_M1_budget_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632059164",
+    "1638180184",
+    "1638472384",
+    "1643254964",
+    "1643877894",
+    "1646388264",
+    "1647056504",
+    "1647153064"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5929,
+   "clicks": 20,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 1002.24,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632059164.gif"
+  },
+  {
+   "ad_name": "leadgen_it_I4_who_sees_what_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643747934",
+    "1643964594",
+    "1646534104",
+    "1647143354",
+    "1651231654"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4674,
+   "clicks": 24,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 10,
+   "linkedin_form_leads": 0,
+   "spend_usd": 995.83,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643747934.gif"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_executional_partner_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643915524",
+    "1643944954",
+    "1646426814",
+    "1651239914",
+    "1647019804"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5241,
+   "clicks": 33,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 18,
+   "linkedin_form_leads": 0,
+   "spend_usd": 977.59,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643915524.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_P2_admin_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638191484",
+    "1638472404",
+    "1643275454",
+    "1643916094",
+    "1646570164",
+    "1651192174",
+    "1647104544"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5369,
+   "clicks": 21,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 977.55,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638191484.gif"
+  },
+  {
+   "ad_name": "leadgen_it_I3_ai_guardrails_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1638220944",
+    "1638368624",
+    "1643342724",
+    "1643896854",
+    "1646466004",
+    "1647029254",
+    "1647075994"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3739,
+   "clicks": 14,
+   "landing_page_clicks": 2,
+   "lead_form_opens": 7,
+   "linkedin_form_leads": 0,
+   "spend_usd": 884.02,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1638220944.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_I2_intake_queue_gif",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643728404",
+    "1643867814",
+    "1646465994",
+    "1647085584",
+    "1647094794"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4687,
+   "clicks": 22,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 11,
+   "linkedin_form_leads": 0,
+   "spend_usd": 834.99,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "GIF",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643728404.gif"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_ai_agent_routes_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643964184",
+    "1644070004",
+    "1646388354",
+    "1647094824",
+    "1647104494"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3552,
+   "clicks": 17,
+   "landing_page_clicks": 2,
+   "lead_form_opens": 9,
+   "linkedin_form_leads": 0,
+   "spend_usd": 709.36,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643964184.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_executional_partner_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643906904",
+    "1643964114",
+    "1646485494",
+    "1647037744",
+    "1651211994"
+   ],
+   "status": "ACTIVE",
+   "impressions": 5311,
+   "clicks": 28,
+   "landing_page_clicks": 20,
+   "lead_form_opens": 4,
+   "linkedin_form_leads": 0,
+   "spend_usd": 690.53,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643906904.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_job_description_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643964674",
+    "1644023494",
+    "1646436444",
+    "1651231674",
+    "1651192234"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4890,
+   "clicks": 20,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 686.74,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643964674.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_headcount_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643896864",
+    "1643944454",
+    "1646436354",
+    "1647162634",
+    "1647114184"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4459,
+   "clicks": 27,
+   "landing_page_clicks": 16,
+   "lead_form_opens": 7,
+   "linkedin_form_leads": 0,
+   "spend_usd": 668.47,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643896864.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_automized_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643954614",
+    "1644061844",
+    "1646466044",
+    "1647066344",
+    "1651211934"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4372,
+   "clicks": 23,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 11,
+   "linkedin_form_leads": 0,
+   "spend_usd": 649.07,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643954614.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_workflows_on_monday_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643839634",
+    "1644023994",
+    "1646551544",
+    "1647153044",
+    "1651211924"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3710,
+   "clicks": 24,
+   "landing_page_clicks": 12,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 631.26,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643839634.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_execution_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646514144",
+    "1646514774",
+    "1651182294",
+    "1647123834"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4461,
+   "clicks": 22,
+   "landing_page_clicks": 11,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 629.51,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646514144.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_ai_agent_routes_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643848614",
+    "1644003414",
+    "1646495694",
+    "1651192214",
+    "1647162604"
+   ],
+   "status": "ACTIVE",
+   "impressions": 4945,
+   "clicks": 23,
+   "landing_page_clicks": 3,
+   "lead_form_opens": 15,
+   "linkedin_form_leads": 0,
+   "spend_usd": 629.07,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643848614.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_shirley_calendar_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643877374",
+    "1643925344",
+    "1646407184",
+    "1647037734",
+    "1651211974"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3727,
+   "clicks": 21,
+   "landing_page_clicks": 4,
+   "lead_form_opens": 12,
+   "linkedin_form_leads": 0,
+   "spend_usd": 616.99,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643877374.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_matt_working_for_you_dark_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643848204",
+    "1644069994",
+    "1646329614",
+    "1647143324",
+    "1651221734"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3853,
+   "clicks": 27,
+   "landing_page_clicks": 16,
+   "lead_form_opens": 5,
+   "linkedin_form_leads": 0,
+   "spend_usd": 613.09,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643848204.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_workflows_on_monday_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643915554",
+    "1644033794",
+    "1646446394",
+    "1647162644",
+    "1647037724"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3665,
+   "clicks": 19,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 9,
+   "linkedin_form_leads": 0,
+   "spend_usd": 604.04,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643915554.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_P3_goal_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1632127294",
+    "1638511064",
+    "1643216284",
+    "1643935744",
+    "1646475714",
+    "1651239904",
+    "1647066384"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3579,
+   "clicks": 13,
+   "landing_page_clicks": 3,
+   "lead_form_opens": 7,
+   "linkedin_form_leads": 0,
+   "spend_usd": 589.72,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1632127294.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_helpdesk_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646435664",
+    "1646551574",
+    "1651221754",
+    "1647047354"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2900,
+   "clicks": 13,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 4,
+   "linkedin_form_leads": 0,
+   "spend_usd": 518.67,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646435664.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_shirley_stakeholders_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643867284",
+    "1643984154",
+    "1646378074",
+    "1647019724",
+    "1647066364"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3025,
+   "clicks": 18,
+   "landing_page_clicks": 11,
+   "lead_form_opens": 6,
+   "linkedin_form_leads": 0,
+   "spend_usd": 459.84,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643867284.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_shirley_visibility_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643867234",
+    "1643984194",
+    "1646378184",
+    "1647153014",
+    "1647076044"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3682,
+   "clicks": 20,
+   "landing_page_clicks": 11,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 449.13,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643867234.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_william_automized_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643974584",
+    "1644003434",
+    "1646329584",
+    "1651182244",
+    "1651239884"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2908,
+   "clicks": 14,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 6,
+   "linkedin_form_leads": 0,
+   "spend_usd": 446.75,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643974584.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_melinda_know_where_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643896274",
+    "1644069984",
+    "1646514764",
+    "1651231664",
+    "1647019794"
+   ],
+   "status": "ACTIVE",
+   "impressions": 3064,
+   "clicks": 14,
+   "landing_page_clicks": 11,
+   "lead_form_opens": 3,
+   "linkedin_form_leads": 0,
+   "spend_usd": 422.69,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643896274.jpg"
+  },
+  {
+   "ad_name": "leadgen_it_quote_matt_working_for_you_dark_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-it",
+    "gb-en-prm-work_mgmt-lp-banner-it-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-it",
+    "us-en-prm-work_mgmt-lp-banner-it-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643888304",
+    "1644013284",
+    "1646388314",
+    "1651239924",
+    "1647085554"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2452,
+   "clicks": 12,
+   "landing_page_clicks": 7,
+   "lead_form_opens": 2,
+   "linkedin_form_leads": 0,
+   "spend_usd": 391.79,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643888304.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_chasing_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646533314",
+    "1646466094",
+    "1647094814",
+    "1647019814"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2873,
+   "clicks": 11,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 5,
+   "linkedin_form_leads": 0,
+   "spend_usd": 376.27,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646533314.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_shirley_calendar_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643983614",
+    "1643984164",
+    "1646495634",
+    "1647019734",
+    "1647056554"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2728,
+   "clicks": 13,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 3,
+   "linkedin_form_leads": 0,
+   "spend_usd": 370.64,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643983614.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_melinda_know_where_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643916034",
+    "1643964144",
+    "1646514724",
+    "1647047364",
+    "1647132974"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2755,
+   "clicks": 13,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 5,
+   "linkedin_form_leads": 0,
+   "spend_usd": 358.16,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643916034.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_william_strategic_role_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643935244",
+    "1644033824",
+    "1646446444",
+    "1651182314",
+    "1651221764"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2772,
+   "clicks": 20,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 8,
+   "linkedin_form_leads": 0,
+   "spend_usd": 343.5,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643935244.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_execution_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646435644",
+    "1646543204",
+    "1647153004",
+    "1647162654"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2780,
+   "clicks": 11,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 5,
+   "linkedin_form_leads": 0,
+   "spend_usd": 342.34,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646435644.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_brief_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646435624",
+    "1646329554",
+    "1647056514",
+    "1647153054"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2554,
+   "clicks": 10,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 3,
+   "linkedin_form_leads": 0,
+   "spend_usd": 326.92,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646435624.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_melinda_dont_bother_expert",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643858074",
+    "1644061274",
+    "1646543134",
+    "1647104504",
+    "1647104534"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2295,
+   "clicks": 10,
+   "landing_page_clicks": 8,
+   "lead_form_opens": 1,
+   "linkedin_form_leads": 0,
+   "spend_usd": 324.08,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643858074.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_chasing_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646550894",
+    "1646560264",
+    "1647114214",
+    "1647143414"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2297,
+   "clicks": 14,
+   "landing_page_clicks": 10,
+   "lead_form_opens": 3,
+   "linkedin_form_leads": 0,
+   "spend_usd": 319.98,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646550894.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_quote_shirley_visibility_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643906414",
+    "1643935794",
+    "1646368754",
+    "1651192184",
+    "1647123844"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2431,
+   "clicks": 12,
+   "landing_page_clicks": 9,
+   "lead_form_opens": 1,
+   "linkedin_form_leads": 0,
+   "spend_usd": 310.01,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643906414.jpg"
+  },
+  {
+   "ad_name": "leadgen_aimarketing_quote_shirley_stakeholders_demo",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "gb-en-prm-work_mgmt-lp-banner-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-marketing",
+    "us-en-prm-work_mgmt-lp-banner-marketing-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1643925394",
+    "1643993624",
+    "1646551484",
+    "1651182274",
+    "1651182334"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2016,
+   "clicks": 6,
+   "landing_page_clicks": 5,
+   "lead_form_opens": 1,
+   "linkedin_form_leads": 0,
+   "spend_usd": 280.86,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "marketing",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1643925394.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_risk_expert_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646435614",
+    "1646543364",
+    "1647172164",
+    "1647114234"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2419,
+   "clicks": 14,
+   "landing_page_clicks": 11,
+   "lead_form_opens": 2,
+   "linkedin_form_leads": 0,
+   "spend_usd": 260.65,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646435614.jpg"
+  },
+  {
+   "ad_name": "leadgen_pmo_risk_demo_static",
+   "ad_sets": [
+    "gb-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "gb-en-prm-work_mgmt-lp-banner-pmo-lead_gen",
+    "us-en-prm-work_mgmt-lead_gen-banner-pmo",
+    "us-en-prm-work_mgmt-lp-banner-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "GB",
+    "US"
+   ],
+   "creative_ids": [
+    "1646465384",
+    "1646436464",
+    "1647019774",
+    "1647132984"
+   ],
+   "status": "ACTIVE",
+   "impressions": 2312,
+   "clicks": 6,
+   "landing_page_clicks": 6,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 232.15,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Static",
+   "persona": "pmo",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1646465384.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_three_weeks_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1647076214",
+    "1651182454",
+    "1647047514",
+    "1651232034",
+    "1647114374",
+    "1651221914"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1647076214.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_william_everything_in_store_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1647076344",
+    "1647143544",
+    "1647133134",
+    "1647095214",
+    "1651250004",
+    "1651212124"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1647076344.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_vibe_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1647104704",
+    "1651231854",
+    "1647114384",
+    "1647085934",
+    "1647094964",
+    "1647047544"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1647104704.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_william_everything_in_store_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1647104844",
+    "1651231874",
+    "1651221904",
+    "1651182624",
+    "1647056704",
+    "1647056724"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1647104844.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_notetaker_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1647143554",
+    "1651231844",
+    "1647133124",
+    "1647085924",
+    "1647029434",
+    "1647047534"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1647143554.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_backbone_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651202354",
+    "1651250024",
+    "1651182444",
+    "1651212324",
+    "1651221894",
+    "1647172364"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651202354.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_backbone_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651202364",
+    "1651231864",
+    "1647094984",
+    "1651240324",
+    "1647056694",
+    "1651250014"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651202364.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_three_weeks_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651231884",
+    "1651240084",
+    "1651240064",
+    "1651240314",
+    "1647066464",
+    "1647104684"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651231884.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_vibe_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651231894",
+    "1647047554",
+    "1651202154",
+    "1647038084",
+    "1651249994",
+    "1647076194"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651231894.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_matt_notetaker_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651240094",
+    "1647104694",
+    "1647104674",
+    "1647143754",
+    "1651192334",
+    "1647162764"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651240094.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_melinda_know_where_v1",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651240284",
+    "1647143534",
+    "1647076174",
+    "1647124074",
+    "1651212114",
+    "1651240074"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651240284.jpg"
+  },
+  {
+   "ad_name": "leadgen_video_melinda_know_where_v2",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-lead_gen-video-it",
+    "us-en-prm-work_mgmt-lead_gen-video-marketing",
+    "us-en-prm-work_mgmt-lead_gen-video-pmo",
+    "us-en-prm-work_mgmt-lp-video-it-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-marketing-lead_gen",
+    "us-en-prm-work_mgmt-lp-video-pmo-lead_gen"
+   ],
+   "lead_types": [
+    "Demo LP",
+    "Lead Gen form"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651240294",
+    "1651250034",
+    "1647037904",
+    "1647047754",
+    "1647094974",
+    "1647162774"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [
+    "REQUEST_DEMO"
+   ],
+   "format": "Video",
+   "persona": "it",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651240294.jpg"
+  },
+  {
+   "ad_name": "agent_general_generic_horizontal_inbox-human_static",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651807244"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "Static",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651807244.jpg"
+  },
+  {
+   "ad_name": "360_AI_your_team_static",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651845504"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "Static",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651845504.jpg"
+  },
+  {
+   "ad_name": "use_case_board_gif",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651855714"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "GIF",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651855714.gif"
+  },
+  {
+   "ad_name": "agent_general_generic_emotional_approvals_static",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651894344"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "Static",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651894344.jpg"
+  },
+  {
+   "ad_name": "agent_aimarketing_generic_emotional_signature_static",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651933674"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "Static",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651933674.jpg"
+  },
+  {
+   "ad_name": "use_case_dashboard_gif",
+   "ad_sets": [
+    "us-en-prm-work_mgmt-seniority-lp-banner-skills-up_market"
+   ],
+   "lead_types": [
+    "Up market"
+   ],
+   "regions": [
+    "US"
+   ],
+   "creative_ids": [
+    "1651943164"
+   ],
+   "status": "ACTIVE",
+   "impressions": 0,
+   "clicks": 0,
+   "landing_page_clicks": 0,
+   "lead_form_opens": 0,
+   "linkedin_form_leads": 0,
+   "spend_usd": 0.0,
+   "cta": [],
+   "format": "GIF",
+   "persona": "skills",
+   "image_url": "https://nymeria-ai.github.io/linkedin-tla-dashboard/prm-leads/media/1651943164.gif"
+  }
+ ]
+}
